@@ -1,0 +1,85 @@
+Lobby meeting
+
+2016-02-19, 15:06:55 
+participants
+	George, Paul, Adolfo, Maria, Guanming, Dana, Elaine
+
+getting the client to work
+	logging in
+
+lobby
+	figuring it out
+	capacity, terrtory, tile range
+	how to obtain tiles
+
+	avatars. see other people. 
+
+	mobile porting
+		2d assets
+		chat view
+		screensize
+
+	civilization
+
+	dev console
+
+	make the shop better
+
+	2 different views
+
+	inventory
+
+TA hours
+	email him
+	2:00-4 Tuesday
+
+Scrum
+
+George (osx)
+What will you do by next meeting?
+get the client working. play with the lobby.
+
+Any blocks?
+client doesn't work.
+
+Paul (win8)
+What will you do by next meeting?
+try to get ecosystem scene to work. blender tutorials. look into db.
+
+Any blocks?
+nothing works. figuring out the code.
+
+Adolfo(osx)
+What will you do by next meeting?
+familiarize with codebase (lobby client). debug errors with server. talk to jens
+
+Any blocks?
+wait for jens.
+
+Maria(win10)
+What will you do by next meeting?
+go over code for lobby. try to get it running.
+
+Any blocks?
+get lobby to run on computer.
+
+Guanming(osx)
+What will you do by next meeting?
+understand server-side code and structure.
+
+Any blocks?
+don't know what feature will be added server-side.
+
+Dana(win8)
+What will you do by next meeting?
+test how game looks on mobile. 
+
+Any blocks?
+can't get code to run on machine.
+
+Darin(win10)
+What will you do by next meeting?
+research code base. get a sense of what's going on regarding how the lobby functions
+
+Any blocks?
+download code.

@@ -1,0 +1,34 @@
+1. what are the primary colors of light?
+	red, green, blue
+
+2. what are the primary pigment colors?
+	cyan, magenta, yellow
+
+3. t/f shade is a color obtained by mixing a hue with black.
+	true
+
+4. t/f there are five types of cones.
+	f. 3 types
+
+5. t/f the retina contains 100,000 rods.
+	f. ~120 million
+
+6. t/f the retina contains 6,000,000 cones.
+	true
+
+7. name an example of complementary color.
+	green is the complementary color of red.
+
+8. name 6 main concepts to consider when beginning to design a lighting plan.
+	direct sunlight
+	reflected sunlight
+
+
+9. t/f tungsten-halogen lamps are a form of electric discharger lighting.
+	true
+
+10. t/f ill effects on the human body from using flourescent light are unheard of.
+	false
+
+11. t/f lumen refers to the quality of light that is given off in all directions by the lamp itself.
+	f. quantity

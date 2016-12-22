@@ -1,0 +1,16 @@
+POP setting
+Server name: outlook.office365.com
+Port: 995
+Encryption method: SSL
+
+
+IMAP setting
+Server name: outlook.office365.com
+Port: 993
+Encryption method: SSL
+
+
+SMTP setting
+Server name: smtp.office365.com
+Port: 587
+Encryption method: TLS

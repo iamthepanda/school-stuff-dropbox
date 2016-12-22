@@ -1,0 +1,9 @@
+vi cheatsheet
+
+Select all and delete (actually move to buffer)
+:%d
+
+Select all and copy to buffer
+:%y
+
+Use p to paste the buffer.

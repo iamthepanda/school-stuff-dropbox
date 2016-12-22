@@ -1,0 +1,213 @@
+http://web.mst.edu/~saifullaha/courses/
+slides are here
+
+Chapter 1
+
+Lecture 2
+
+1.3 network core
+
+home access networks eg dsl, cable
+
+cable modem is connected to cable head end 
+
+frequency division multiplexing
+
+physical media
+
+guided
+	fiber is different from cat and cable.
+	backbone of internet
+	connects countries and cities
+
+unguided
+	microwave, LAN, satellite
+
+network core is a mech of interconnected routers
+two ways:
+	packet switching- hosts break application-layer messages into packets
+		store and forward. router cannot forward a packet until recieving the full packet.
+		ignore propagation delay
+		end-to-end delay
+			(N*L)/R
+		if immediate, L/R
+
+	circuit switching
+		FDM	frequency
+		TDM	time
+
+IP address. destination is in packet header
+every packet switch on one table
+when packet switch recieves packet, will search table for entry for appropriate outgoing link and move packet for further transmission
+
+algorithms and protocols will set up routing table
+network core. two key componente are routing and forwarding
+
+
+
+
+
+1.4 delay, loss, throughput in networks
+
+four sources of nodal packet delay
+	d_proc		nodal preprocessing
+		check bit errors
+		determine output link
+		typically less than a msec
+	d_queue		queuing
+		time waiting at output link for transmission
+		depends of congestion level of router
+
+		L: packet length (bits)
+		R: link bandwidth (bps)
+		a: average packet arrival rate
+
+		(L*a)/R
+			~ 	0		avg queue delay	small
+			-> 	1						large
+			>	1		more 'work' arriving. packet loss
+	
+	d_trans		transmission
+		L/R
+
+		time it takes for last bit to enter link
+
+	d_prop		propagation
+		d: length of physical link
+		s: propagation speed in medium (~2x10^8 m/s)
+		d/s
+
+		time it takes for first bit to reach receiver
+
+	the sum of these delays gives the total nodal delay
+
+	transmission vs propagation
+	link length 		1000km
+	link rate 			1Mbps
+	packet size 		100Bytes
+	propagation speed 	2.8x10^8 m/s
+
+	L/R
+		100Bytes / 1Mbps
+		100*8 bits / 10^6
+		0.8 ms
+	d/s
+		1000km / 2.8x10^8 m/s
+		1000x10^3m / 2.8x10^8 m/s
+		3.57 ms
+
+
+	packet loss
+		lost packet may be retransmitted by prev node, source end sys, or not at all
+	
+	queuing and loss
+
+
+	throughput
+		rate (bits/time unit) at which bits transferred btw sender/receiver
+			instantaneous
+			average
+
+		R_s server R_c client
+		end-to-end throughput is the smallest size, the bottleneck link
+		R_s < R_c		R_s
+		R_s > R_c		R_c
+
+		
+		per-connection e2e throughput, min(R_c, R_s, R/10)
+		R_c or R_s if often the bottleneck
+
+
+1.5 protocol layers, service models
+
+protocol layers
+
+switch vs router?
+
+service models
+xxxxxxx
+
+---------------------------
+2016-02-11, 19:11:48 
+
+xxxxxx
+
+---------------------------
+2016-02-18, 19:46:56 
+
+xx
+---------------------------
+2016-02-25, 19:16:53 
+Lecture 4
+
+browser connects to web server.. http protocol
+
+if the web client wants to connect to remote server, first client has to know the server's ip address.
+
+two types of identifiers: host name and ip address
+
+in order to connect browser/web client, first find host name, then DNS. http invokes DNS client on client machine.
+
+how does dns client get the translation from dns?
+	dns client sends query to local server. browser is configured to direct queries to local server.
+
+	if local server has stored... immediately..
+
+
+
+
+DNS -
+
+DNS client - sends request to local dns server
+
+local dns server - receives request from dns client. contacts root server. contacts tld server (.edu). contacts another server
+
+root server -
+
+TLD server -
+
+chapter 3: transport layer
+goals
+understand principles behind transport layer services...
+
+logical communication -
+
+segment -
+
+transport layer - log comm btw processes.
+
+transport layer protocols - tcp and udp. extend network layer delivery system btw two end systems. need multiplexting
+
+network layer - log comm btw hosts
+
+tcp - implements also reliable data transer, congestion control, flow control
+
+udp - only implements multiplex and error correction
+
+multiplexing -
+
+each process is associated with a socket
+
+unique..
+
+transport layer segment must contain info which can be used by transport layer. so transport layer can...
+
+need two things for multi/demulti
+	there may be multiple processes in same host. each socket mucst have unique identifier
+
+	then transport layer receives a segment, there must be a way to... appropriate
+
+2 pieces of information used to identify application process.
+	ip address of host and port number
+
+udp
+
+example, connectionless demux
+	2 clients, 1 server
+
+	client sends source port and dest port
+	server responds with corresponding ports
+
+tcp is a 4-tuple
+
+udp is lightweight and simple. less delay and overhead

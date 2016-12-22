@@ -1,0 +1,119 @@
+Concept meeting
+
+
+	David Hoff - 
+	We had our first meeting about game content before class today (2/2). 
+	We met outside of the class room. 
+	Jeremy, Karl, Ellison, Suzanne and David attended.
+
+	We talked primarily talked about the "Don't Eat Me" game.
+	We discussed enhancing it in the following ways:
+	1. Create a more complete Biosphere / Eco-system that includes more animals/plants and the right numbers of them.
+	2. Do some research to understand the biological / Eco-system laws better to make the game more accurate.
+	3. Consider other Eco-system options beyond the savanna in Africa.
+	4. Improve graphics / user experience.
+	5. Add multiplayer - thinking about how to do that.
+	6. Build in more strategy for the user. 
+
+	Jeremy had most of the ideas and may augment this post.
+
+		Jeremy Erickson -
+		This was a good summary; I'll just elaborate slightly.
+
+		I found the Don't Eat Me! mini-game to have a good amount of potential, but I found it needed some polishing in several areas:
+
+		1) The visuals could use some improvements (animations, backgrounds, and so forth; this is not a high priority, but it deserves mention)
+
+		2) The major complaint was it lacked any sense of a "tutorial"-based introduction; since it was based on the popular Plants vs. Zombies game, with which I am quite familiar (and of which I am a big fan, hence my interest in the project), I feel that simply from watching the demo videos, the gameplay left little room to learn, and this can be a major deterrent for players who are just starting out. Thus, I propose the addition of an optional single-player tutorial mode to allow players to practice and get the basics down before competing against other players (which, to my understanding, consumes resources). 
+
+		I also had a rough concept for another mini-game which focused more heavily on the educational aspect of things, but the lobby seemed to model this idea somewhat as I later found out last lecture, so it may or may not be too redundant. 
+
+		The idea essentially encapsulated the concept of a biosphere (I had done prior research on a failed attempt at several real-life biospheres, such as the one in Arizona, which detailed the unforeseen complexities of maintaining a balanced ecosystem). The idea is to create a biosphere, and to work cooperatively with other players (as opposed to competitively) in order to keep the micro-ecosystem balanced; players would assume roles of botanists, ornithologists, entomologists, etc., each responsible for maintaining one specific aspect of the system in order to reach a perfect, sustained balance; intercommunication with the team would be key, as only an entomologist could affect the insect populations, for instance. If perfect balance could be maintained, all team members involved would earn respective points / resources. 
+
+		Again, this might be too similar to the overall concept of the lobby, and it was just a rough concept off the top of my head, but it might be nice to have an element of cooperative gameplay in a mini-game.
+
+------------------------------
+2016-02-10, 11:01:52 
+participants -
+	George, Paul, Elaine, Karl, Nicu
+
+topics -
+
+lobby
+	terrain/biome tiles
+		3 tiers with different size and complexity of organisms
+		aquatic biome
+	currency
+
+can't install wb
+
+integration to android app
+
+new game
+	predator/prey tag
+		killer queen
+		multiple objectives
+			gather resources
+		timed rounds
+	human vs nature
+
+cooperative gameplay
+
+------------------------------
+2016-02-11, 14:04:43 
+participants -
+	George, Ellison, Gilbert, Devon, Elaine, Paul, Suzanne, Nicu
+
+topics -
+	overall goal is to have the game be more fun
+	
+	lobby
+		lobby currency shared between games
+		breeding mechanism
+		shop
+
+	cards of wild
+		magic, hearthstone
+
+	convergence
+		revamp UI
+		change up gameplay
+		add imagery
+
+	don't eat me
+		currency
+		connection to lobby
+		multiplayer aspect
+			tower defense
+			moba
+			fire emblem
+			turn-based
+		rework gameplay
+		pokemon
+		creatures
+		team of diverse animals
+		upgrade and level up with resources/currency
+
+	running rhino
+		not currently apparent what the objective
+		get to another location / migration. 'get to warmer location'
+		predator catch prey
+		'ice age' 'flood season'
+		day/night system
+		checkpoints
+		how many days you can survive
+		endless runner
+		powerups
+		jetpack joyride
+		bat/flight game
+		jungle/desert/environment and animal choices
+		hiding
+
+	clash of species
+		scrap it
+		strategic elements
+		moba
+		tekken
+		chess/fire emblem/pokemon
+		upgrade to survive
+		

@@ -1,0 +1,14 @@
+/Users/george/WoB_Client_Basic/Temp/bin/Debug/UnityEngine.dll
+/Users/george/WoB_Client_Basic/Temp/bin/Debug/UnityEditor.dll
+/Users/george/WoB_Client_Basic/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/george/WoB_Client_Basic/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/george/WoB_Client_Basic/Temp/bin/Debug/Mono.Data.Sqlite.dll
+/Users/george/WoB_Client_Basic/Temp/bin/Debug/Mono.Cecil.dll
+/Users/george/WoB_Client_Basic/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/george/WoB_Client_Basic/Temp/bin/Debug/Unity.DataContract.dll
+/Users/george/WoB_Client_Basic/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/george/WoB_Client_Basic/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/george/WoB_Client_Basic/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/george/WoB_Client_Basic/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/george/WoB_Client_Basic/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/george/WoB_Client_Basic/Temp/bin/Debug/Mono.Cecil.Mdb.dll

@@ -1,0 +1,53 @@
+project loon - wifi from stratosphere
+moon shot long term
+
+g.co/SWEintern softeng summer 2015
+
+g.co/SWEgrad softeng undergrad
+
+2-3 phone interview/1-2, onsite interview/ engineering review, committee review, offer
+~3 months
+
+solid cs and engin. found.
+c/c++, java, python, go
+
+clubs, competitions/hackathons, internship/student jobs, *open source projects*(google summer of code or code jam)
+
+fundamentals(freshman yr), algorithms and data structs
+	lists, hash table, trees; know when to use which
+	
+NO PSEUDO CODE
+
+practice in familiar lang
+	whiteboard, doc, paper
+	in person w/ peers
+	no pseudo
+	
+meet someone at google
+
+interview
+	data structs
+	algo
+	
+useful theory
+	os
+	compilers
+	comp netw.
+	comp arch.
+	
+classes
+	ai, bioinformatics, mach. learning
+	game prog, cryptology
+	
+once pass process, find place you want
+
+http://goo.gl/9hinS9
+
+openmrs medical record system
+~1 year
+
+java - service
+c++ - infrastructure
+python - testing infrastructure, scripting, automation
+
+prepare for the interview*** algorithms!!!

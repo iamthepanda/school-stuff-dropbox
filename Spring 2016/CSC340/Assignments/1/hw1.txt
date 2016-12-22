@@ -1,0 +1,15 @@
+Assignment 1 - arrays, structs, and functions (due 2/17)
+
+Problem description:
+
+Problem 1. Implement a C++ program that has the following functions:
+	1. Reads in English text of an arbitrary length from the keyboard. Feel free to include this task in the main() function.
+	2. Identifies the least frequent letter in the above text. Implement a separate function getLeastFreqLetter() for this task. The main() function then calls this function to find out the least frequent letter and its frequency.
+	3. Calculate the frequency of each unique word (case insensitive). Implement another function countWordFreq() for this task. Words will be separated by spaces and punctuation. You can use the isspace and ispunct functions to detect separators (references here: http://www.cplusplus.com/reference/cctype/isspace/ and http://www.cplusplus.com/reference/cctype/ispunct/). Please define a global class that contains two public fields, a word and its count, for this task. You can then define a vector of this class to store all the unique words and their counts. The main() function will call this function to print out each word and its corresponding frequency.
+	4. Identify the most frequently occurring word in the paragraph. Implement another stand-alone function getMostFreqWord() for this purpose. This function will be called in main() to identify the most frequent word and its respective frequency.
+Your program should prompt the person running it to enter text. Once they are done (once they press enter), your program should print out the information detailed above.
+
+Problem 2: Implement another C++ program to sort a list of integers using the selection sort algorithm. You are required to
+	1. use an integer vector to store the input numbers typed from the keyboard. The declaration of this vector will be in main(). You'll need to implement a separate function readData() to read numbers from the keyboard;
+	2. implement a separate function called selectionSort(), which will be called by the main() function to sort the afore-mentioned vector;
+	3. implement another function printVector() to print out the content of the vector. This function will be called by main() right after calling readData() and selectionSort(), respectively, to print out the vector content before and after being sorted.

@@ -1,0 +1,16 @@
+2016-04-01, 10:24:46 
+Present: Paul, Darin, Guanming, George
+Absent: Adolfo, Dana, Maria
+
+remove gold. only use credits
+
+music
+
+don't upgrade unity
+
+New 1st priorities
+	All currencies reduced to 1
+	Rebalancing minigame rewards
+	Shop must be working
+		purchasing tiles from the shop
+	showing the tiles the user has purchased
